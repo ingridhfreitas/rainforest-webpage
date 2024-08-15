@@ -1,4 +1,5 @@
 Amazon Rainforest Webpage
+
 This project is a basic webpage created as part of the SheCodes workshop. It aims to provide information about the Amazon Rainforest and raise awareness about its importance.
 
 Technologies used:
